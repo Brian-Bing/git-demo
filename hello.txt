@@ -12,5 +12,8 @@ hello brian! hello git!
 hello brian! hello git!
 hello brian! hello git!
 hello brian! hello git!
+<<<<<<< HEAD
 hello brian! hello git! master test
-hello brian! hello git!
+=======
+hello brian! hello git! hot-fix test
+>>>>>>> hot-fix
